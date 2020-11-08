@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.scss';
+import studentData from '../helpers/data/studentData';
 
 class App extends React.Component {
   render() {
+    studentData.getData().then((res) => console.log(res));
     return (
       <div className="App">
         <h2>INSIDE APP COMPONENT</h2>

@@ -1,0 +1,122 @@
+{
+  "a-fotopoulos" : {
+	  "firstName": "Autumn",
+    "lastName": "Fotopoulos",
+    "isDead": false,
+    "image": "https://avatars3.githubusercontent.com/u/67810121?s=460&u=3b0be9324b053a16f869d0312a081910433e9fdb&v=4"
+  },
+  "b-dennis" : {
+	  "firstName": "Bailey",
+	  "lastName": "Dennis",
+    "isDead": false,
+    "image": "https://avatars0.githubusercontent.com/u/29682262?v=4"
+  },
+  "c-lojacono": {
+    "firstName": "Chris",
+    "lastName": "Lojacono",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/66916708?v=4"
+  },
+  "c-calhoun": {
+    "firstName": "Chris",
+    "lastName": "Calhoun",
+    "isDead": false,
+    "image": "https://avatars1.githubusercontent.com/u/42413958?v=4"
+  },
+  "d-pham": {
+    "firstName": "Dana",
+    "lastName": "Pham",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/67748110?v=4"
+  },
+  "d-mix": {
+    "firstName": "Deanna",
+    "lastName": "Mix",
+    "isDead": false,
+    "image": "https://avatars1.githubusercontent.com/u/67847120?v=4"
+  },
+  "h-juneau": {
+    "firstName": "Hunter",
+    "lastName": "Juneau",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/20494604?v=4"
+  },
+  "j-joyner": {
+    "firstName": "Jonathon",
+    "lastName": "Joyner",
+    "isDead": false,
+    "image": "https://avatars0.githubusercontent.com/u/67886630?s=460&u=83c0c0d3aede633732ef1cec5e73ea384b6a69d1&v=4"
+  },
+  "j-smith": {
+    "firstName": "Jordan",
+    "lastName": "Smith",
+    "isDead": false,
+    "image": "https://avatars3.githubusercontent.com/u/67443077?s=460&u=a4a4fd099912a21107ad689059fbfb82c5cc910d&v=4"
+  },
+  "w-kotheimer" : {
+    "firstName": "Will",
+    "lastName": "Kotheimer",
+    "isDead": false,
+    "image": "https://avatars3.githubusercontent.com/u/5234281?v=4"
+    },
+  "w-patton" : {
+    "firstName": "Wendell",
+    "lastName": "Patton Jr.",
+    "isDead": false,
+    "image": "https://avatars0.githubusercontent.com/u/63669713?v=4"
+    },
+  "w-mcinturff" : {
+    "firstName": "Wanda",
+    "lastName": "McInturff",
+    "isDead": false,
+    "image": "https://avatars0.githubusercontent.com/u/67842770?v=4"
+    },
+  "s-duke" : {
+    "firstName": "Summer",
+    "lastName": "Duke",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/60371978?v=4"
+    },
+  "s-mudick" : {
+    "firstName": "Sam",
+    "lastName": "Mudick",
+    "isDead": false,
+    "image": "https://avatars0.githubusercontent.com/u/65687019?v=4"
+    },
+  "r-mcnair" : {
+    "firstName": "Ryan",
+    "lastName": "McNair",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/67588177?v=4"
+    },
+  "r-bandstra" : {
+    "firstName": "Rob",
+    "lastName": "Bandstra",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/67298516?v=4"
+    },
+  "m-pfohl" : {
+    "firstName": "Michael",
+    "lastName": "Pfohl",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/61816911?v=4"
+    },
+  "l-barnes" : {
+    "firstName": "Liz",
+    "lastName": "Barnes",
+    "isDead": false,
+    "image": "https://avatars2.githubusercontent.com/u/65733608?v=4"
+    },
+  "k-vanhook" : {
+    "firstName": "Kaitlyn",
+    "lastName": "VanHook",
+    "isDead": false,
+    "image": "https://avatars3.githubusercontent.com/u/63985074?v=4"
+    },
+  "j-martin" : {
+    "firstName": "Joseph",
+    "lastName": "Martin",
+    "isDead": false,
+    "image": "https://avatars3.githubusercontent.com/u/41244241?v=4"
+    }
+}
