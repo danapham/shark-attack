@@ -1,14 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import firebase from 'firebase/app';
-import apiKeys from './helpers/apiKeys.json';
 import './styles/index.scss';
-import App from './App/App';
+import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
   document.getElementById('root'),
-  firebase.initializeApp(apiKeys.firebaseKeys),
 );
