@@ -24,6 +24,8 @@ const dearlyBeloved = () => new Promise((resolve, reject) => {
   }).catch((err) => reject(err));
 });
 
-// const followTheLight = (studentId) => axios.patch(`${baseUrl}/`)
+const followTheLight = (studentId) => axios.patch(`${baseUrl}/students/${studentId}.json`, { isDead: true });
 
-export default { getStudents, livingStudents, dearlyBeloved };
+export default {
+  getStudents, livingStudents, dearlyBeloved, followTheLight,
+};

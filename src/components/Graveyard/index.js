@@ -1,20 +1,19 @@
 import React, { Component } from 'react';
-import LiveStudent from '../LiveStudent';
 import studentData from '../../helpers/data/studentData';
+import Gravestone from '../Gravestone';
 
-export default class SharkTank extends Component {
+export default class Graveyard extends Component {
   render() {
     const { students } = this.props;
-
     const renderStudents = () => (
       students.map((student) => (
-        <LiveStudent key={student.id} student={student} />
+        <Gravestone key={student.id} student={student}/>
       ))
     );
 
     return (
       <div>
-        <h1>SharkTank</h1>
+        <h1>Graveyard</h1>
         {renderStudents()}
       </div>
     );
