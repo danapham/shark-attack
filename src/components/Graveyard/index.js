@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import studentData from '../../helpers/data/studentData';
 import Gravestone from '../Gravestone';
 
 export default class Graveyard extends Component {
